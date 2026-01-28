@@ -1,8 +1,11 @@
 (ENGLISH)
+
 DYNAMIC EMOJI SYSTEM FOR AFTER EFFECTS
+
 WHAT IS THIS?
 It is a system in After Effects that solves the problem of flat or monochrome emojis.
-It allows you to write natural text (e.g., “Hello 👋 World 🌍”) and After Effects automatically replaces those emojis with high-quality videos (animated or 3D Apple Emojis), keeping the text centered, respecting the font size, and allowing emojis to be repeated without errors.
+It allows you to write natural text (e.g., “Hello 👋 World 🌍”) and After Effects automatically replaces those emojis with high-quality videos (animated or 3D Apple Emojis), 
+keeping the text centered, respecting the font size, and allowing emojis to be repeated without errors.
 All code was made with Gemini AI. I don't know how to code, that's why I upload this to GitHub. I hope someone that actually knows how to code could improve and optimized this heavy system.
 
 The entire system was written for an English version of After Effects, but in the AE file I uploaded as an example, the variables are written in Spanish. That's why I uploaded a PDF document explaining how to reproduce the system step by step. 
@@ -10,6 +13,8 @@ It's in Spanish, but you could translate the PDF into English and apply it, or d
 
 ----------------
 (SPANISH)
+
+
 SISTEMA DE EMOJIS DINÁMICOS PARA AFTER EFFECTS
 ¿QUÉ ES ESTO?
 Es un sistema en After Effects que soluciona el problema de los emojis planos o monocromáticos.
